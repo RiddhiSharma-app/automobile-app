@@ -5,7 +5,7 @@
 - <b>Cardekho Application (Flutter, Firebase, geoLocation, deep linking, geofencing, push notification)</b>
   - [Application](https://github.com/RiddhiSharma-app/Cardekho)
 - <b>BioMetric ID Verification App (Flutter)</b>
-  - [Authentication with biometrics such as fingerprint, facial recognition, pattern and pins](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Authentication with biometrics such as fingerprint, facial recognition, pattern and pins](https://github.com/RiddhiSharma-app/Authentication-biometric-app) <b>
 
 <h2>Certification</h2>
 
