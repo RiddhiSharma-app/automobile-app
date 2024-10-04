@@ -6,6 +6,8 @@
   - [Application](https://github.com/RiddhiSharma-app/Cardekho)
 - <b>BioMetric ID Verification App (Flutter)</b>
   - [Authentication with biometrics such as fingerprint, facial recognition, pattern and pins](https://github.com/RiddhiSharma-app/Authentication-biometric-app) <b>
+- <b>Bluetooth BLE devices App </b>
+  - [Connect to BLE devices](https://github.com/RiddhiSharma-app/Bluetooth-BLE-App) <b>
 
 <h2>Certification</h2>
 
