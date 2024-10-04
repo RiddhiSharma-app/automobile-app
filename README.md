@@ -11,9 +11,12 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2>Certification</h2>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+  - [Certificate of CSM](https://i.imgur.com/LXp7h6f.jpeg)
+  - [Certificate of CSPO](https://i.imgur.com/kEPPmuu.jpeg)
+
 
 
 <h2> 🤳 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/riddhi-sharma-softwaredeveloper/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[linkedin]: https://www.linkedin.com/in/riddhi-sharma-softwaredeveloper/
