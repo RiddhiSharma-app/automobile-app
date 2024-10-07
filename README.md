@@ -34,6 +34,7 @@ So far, I have worked on many apps. Most of these apps were developed while I wa
     - Payment Gateway
     - Cache Api integration, Cache Image providers
     - Complex UI implementation
+    - Implemented localization
     - Published in Google Play Store/ Apple App Store
     - Firebase (Local, Cloud)
     - Adaptive and Responsive designs
