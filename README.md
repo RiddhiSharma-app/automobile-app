@@ -1,6 +1,6 @@
 <h1>Hi, I'm Riddhi!</h1><h3>I’m an Mobile Developer, passionate about building great apps. For me app development is not just about coding, it’s also about creating an awesome user experience.
 
-So far, I have worked on many apps. Most of these apps were developed while I was working at a day job. In my portfolio, I am only showcasing apps that I have designed and developed. I worked on few domains like Banking, AutoMobile, Education, Dealers, Ecommerce, Fitness.</h3>
+So far, I have worked on many apps. Most of these apps were developed while I was working at a day job. In my portfolio, I am only showcasing apps that I have designed and developed. I worked on few domains like Banking, AutoMotive, Education, Dealers, Ecommerce, Fitness.</h3>
 
 <h2>👨‍💻 Programming Languages:</h2>
 
