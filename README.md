@@ -72,7 +72,7 @@ Pop up:  <br/>
 - <b>Bluetooth BLE devices App </b>
   - [Connect to BLE devices](https://github.com/RiddhiSharma-app/Bluetooth-BLE-App) <b>
 - <b>Pose Detector App </b>
-  - [Connect to BLE devices](https://github.com/RiddhiSharma-app/Bluetooth-BLE-App) <b>  
+  - [Detect the pose using Google ML-KIT](https://github.com/RiddhiSharma-app/pose-detector) <b>  
 
 <h2>Certification</h2>
 
