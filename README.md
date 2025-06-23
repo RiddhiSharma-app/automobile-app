@@ -1,22 +1,24 @@
-<h1>Hi, I'm Riddhi!</h1><h3>I’m an Mobile Developer, passionate about building great apps. For me app development is not just about coding, it’s also about creating an awesome user experience.
+<h1>Hi, I'm Riddhi!</h1><h3>I’m an Mobile & Web Developer, passionate about building great application. For me development is not just about coding, it’s also about creating an awesome user experience.
 
-So far, I have worked on many apps. Most of these apps were developed while I was working at a day job. In my portfolio, I am only showcasing apps that I have designed and developed. I worked on few domains like Banking, AutoMotive, Education, Dealers, Ecommerce, Fitness.</h3>
+So far, I have worked on many application. Most of these application were developed while I was working at a day job. In my portfolio, I am only showcasing apps that I have designed and developed. I worked on few domains like Banking, AutoMotive, Education, Dealers, Ecommerce, Fitness.</h3>
 
 <h2>👨‍💻 Programming Languages:</h2>
 
+ - React
  - Flutter
  - Dart
  - Android
  - Kotlin
- - React
  - Javascript
  - HTML/CSS
  - Java
  - Agile
+ - Node.js
+ - Express
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Cardekho Application (Android, Flutter, Firebase, geoLocation, deep linking, geofencing, push notification)</b>
+- <b>Cardekho Application (Android, Flutter, React, Firebase, geoLocation, deep linking, geofencing, push notification, Node.js, Express)</b>
   - [Application](https://github.com/RiddhiSharma-app/Cardekho)
   - I worked on everything from the first line of code to deploying on the App Store and Google Play Store.
   - It's a automobile application which uses neuormphishm user interface, MVVM architecture, State Management Tool (Getx, Bloc), Flavors etc. It is been used by over 1.5 million users.
